@@ -10,7 +10,7 @@ import java.awt.Rectangle;
 
 public class StartMenu {
 	
-	private String startGameText = "Start game";
+	private String startGameText = "Start game (Test)";
 	private String optionsText = "Options";
 	private String exitGameText = "Exit game";
 	
