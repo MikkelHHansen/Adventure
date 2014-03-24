@@ -12,7 +12,7 @@ public class StartMenu {
 	
 	private String startGameText = "Start game";
 	private String optionsText = "Options";
-	private String exitGameText = "Exit game";
+	private String exitGameText = "Exit game (Test)";
 	
 	private Rectangle startGame, options, exitGame;
 	public boolean hoveringStart, hoveringOptions, hoveringExit;
